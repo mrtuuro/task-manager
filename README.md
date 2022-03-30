@@ -1,4 +1,4 @@
-# Welcome to Tas-Manager app!
+# Welcome to Tas-Manager API! 
 
 With this API you can create a list that contains your **to-do**s. For now API does not include a Web GUI though it is in progress!
 
