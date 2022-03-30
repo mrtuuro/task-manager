@@ -8,6 +8,8 @@ You will need an API testing application like 'Postman'. So that you can send re
 
 ## --> Requests <-- 
 
+### url = https://tuuro-todoapp.herokuapp.com/
+
 > Create user 
 - **POST** --> {{url}}/users
 - Send a request that JSON body with --> "name", "email", "password"
